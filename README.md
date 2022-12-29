@@ -1,4 +1,4 @@
-## Circle CI Export Test Results On UI
+## Circle CI Store Artifacts
 
 Modify the template according to your environment and build accordingly. Update the artifact path and artifact name.
 
